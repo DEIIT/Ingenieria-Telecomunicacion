@@ -11,10 +11,6 @@ Pulsa el botón **PREVIEW** para leer esta guía con más claridad. Recuerda que
 
 ## TÍTULO
 
-El título debe seguir la siguiente estructura:
-
-    [GIT/GITHUB] Cuestión
-
 - Usa `GIT` si tu cuestión trata sobre el funcionamiento del controlador de versiones.
 - Usa `GITHUB` si tu cuestión trata sobre el funcionamiento de esta página.
 
@@ -33,10 +29,4 @@ Presenta tu cuestión con la siguiente estructura:
 - Conocimientos adquiridos sobre el tema tratado hasta el momento.
 - Presentación de las dudas como preguntas abiertas.
 
-#### Ejemplo de cuestión sobre Git
-
-    [GIT] Hay veces en las que no se me actualizan algunos archivos
-
-Cuando estoy en la terminal y uso `git commit -m` y `git push -u origin master`, hay veces en las que un documento no se me actualiza en el repositorio de GitHub. He comprobado que todos los archivos estén guardados antes de hacer el commit.
-
-¿Qué estoy haciendo mal?
+**===== ELIMINA TODO EL TEXTO HASTA ESTA LÍNEA ANTES DE ENVIAR LA ISSUE =====**

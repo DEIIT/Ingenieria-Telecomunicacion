@@ -27,4 +27,4 @@ Ejemplos de títulos válidos:
 - Deducciones sobre aquello a lo que refiere la sección.
 - Presentación de las dudas como preguntas abiertas.
 
-**SI NO SABES CÓMO ESCRIBIR TU CUESTIÓN, BUSCA OTRAS QUE ESTÉN ABIERTAS Y ÚSALAS COMO GUÍA.**
+**===== ELIMINA TODO EL TEXTO HASTA ESTA LÍNEA ANTES DE ENVIAR LA ISSUE =====**

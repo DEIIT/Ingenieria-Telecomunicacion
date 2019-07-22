@@ -9,6 +9,8 @@ assignees: ''
 
 Pulsa el botón **PREVIEW** para leer esta guía con más claridad. **Recuerda que esto está escrito dentro del apartado del contenido de la sección. Deberás borrar las partes que no correspondan a su estructura para presentarla.**
 
+**ESTA CUESTIÓN ESTÁ PENSADA PARA ERRORES QUE NO ESTÁN SUFICIENTEMENTE CLAROS Y NO SE QUIERE [ABRIR UNA PULL REQUEST](https://github.com/DEIIT/Ingenieria-Informatica/pulls) DIRECTAMENTE.**
+
 ## TÍTULO
 
 Para indicar la **[ASIGNATURA]**, usa [su código correspondiente](https://github.com/DEIIT/Ingenieria-Informatica/wiki/C%C3%B3digos-de-asignaturas). 
@@ -22,11 +24,9 @@ Ejemplos de títulos válidos:
 
 ## ESTRUCTURA
 
-**ESTA CUESTIÓN ESTÁ PENSADA PARA ERRORES QUE NO ESTÁN SUFICIENTEMENTE CLAROS Y NO SE QUIERE [ABRIR UNA PULL REQUEST](https://github.com/DEIIT/Ingenieria-Informatica/pulls) DIRECTAMENTE.**
-
 - Enlace con formato al documento (accede a él y haz click en el botón de enlace que aparece junto al título de la sección o la línea de código que vas a tratar).
 - Cita directa del fragmento que se considera erróneo `en formato de código complejo`.
 - Exposición de los puntos en los que se considera que existen errores.
 - **[OPCIONAL]** Cita directa del fragmento corregido `en formato de código complejo`.
 
-**SI NO SABES CÓMO ESCRIBIR TU CUESTIÓN, BUSCA OTRAS QUE ESTÉN ABIERTAS Y ÚSALAS COMO GUÍA.**
+**===== ELIMINA TODO EL TEXTO HASTA ESTA LÍNEA ANTES DE ENVIAR LA ISSUE =====**

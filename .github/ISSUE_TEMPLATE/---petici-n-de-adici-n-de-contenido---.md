@@ -22,9 +22,9 @@ Ejemplos de títulos válidos:
     [FS] ADICIÓN - Prácticas 5 a 8
     [CA] Tema 3 - Adición de ejemplos prácticos a cada una de las derivadas.
 
-##ESTRUCTURA
+## ESTRUCTURA
 
   - Enlace con formato al documento, si existiese, (accede a él y haz click en el botón de enlace que aparece junto al título de la sección o la línea de código que vas a tratar).
   - Presentacion de la sección de apuntes que se pide añadir
 
-**SI NO SABES CÓMO ESCRIBIR TU CUESTIÓN, BUSCA OTRAS QUE ESTÉN ABIERTAS Y ÚSALAS COMO GUÍA.**
+**===== ELIMINA TODO EL TEXTO HASTA ESTA LÍNEA ANTES DE ENVIAR LA ISSUE =====**
