@@ -1,60 +1,43 @@
-<center><h1>INGENIERÍA DE TELECOMUNICACIÓN</h1></center>
+# INGENIERÍA TELECOMUNICACIÓN
 
+**Repositorio general de apuntes del Grado en Ingeniería de Telecomunicación de la Universidad de Granada**
 
+# LA APERTURA PÚBLICA DEL REPOSITORIO SERÁ EN SEPTIEMBRE. POR AHORA PUEDES SUBIR APUNTES PERO NOS FALTAN ALGUNAS FUNCIONALIDADES.
 
-¡Te damos la bienvenida al repositorio general de apuntes del Grado de Ingeniería de Telecomunicación de la Universidad de Granada!
+## ESTRUCTURA DEL REPOSITORIO:
 
-## Cómo guiarte por este repositorio:
+- **FICHEROS DEL REPOSITORIO:** Contiene ejercicios y apuntes elaborados por los propios estudiantes.
+  - Dividido en un directorio por cada cuatrimestre de cada curso.
+  - También contiene directorios para actividades académicas complementarias o no englobadas en un cuatrimestre concreto.
+- **LA [WIKI](https://github.com/DEIIT/Ingenieria-Telecomunicacion/wiki):** Contiene información general sobre el repositorio y el Grado y guías de contribución.
 
-### Este repositorio está dividido en dos secciones:
+## DISCUSIÓN:
 
-- El directorio de asignaturas, que contiene ejercicios y apuntes elaborados por los propios estudiantes
-  - Está dividida en una carpeta por cada cuatrimestre de cada curso
-  - También contiene carpetas para actividades académicas complementarias o no englobadas en un cuatrimestre concreto
-- La [wiki](https://github.com/DEIIT/Ingenieria-Telecomunicacion/wiki), que contiene información general sobre el repositorio y las asignaturas
-  - Sección de FAQs
-  - Especifica las guías de estilo generales
-  - Muestra una versión sencilla del calendario académico y de exámenes
-  - Contiene una entrada por cada asignatura
-    - Enlace y resumen de la guía docente
-    - Guía de estilo para los apuntes
-    - Información sobre dicha asignatura en años anteriores
+Para preguntar o comenzar una discusión sobre el repositorio y su contenido puedes abrir una [issue](https://github.com/DEIIT/Ingenieria-Telecomunicacion/issues), elegir la plantilla más adecuada y comenzar una discusión con los administradores y el resto de la comunidad.
 
-## Cómo contribuir a este repositorio
+## ADICIÓN O MODIFICACIÓN DE FICHEROS:
 
-### Realizar cambios a los archivos
+Para modificar el contenido del repositorio deberás crear un [fork](https://help.github.com/en/articles/fork-a-repo) del mismo, editar los ficheros correspondientes en él y abrir una [pull request](https://help.github.com/en/articles/about-pull-requests) para comenzar el proceso de evaluación y aceptación de los cambios.
 
-Los cambios que puedes realizar son adiciones o eliminaciones tanto de ficheros como de sus elementos. Para ello puedes pulsar el botón de editar de un archivo y añadir o eliminar las líneas que creas convenientes. Cuando estés seguro de que todos tus cambios son correctos comienza el proceso de aprobación de los cambios, formalmente denominados *pull request*.
+Puedes informarte más detalladamente del proceso en [la wiki](https://github.com/DEIIT/Ingenieria-Telecomunicacion/wiki/C%C3%B3mo-contribuir)
 
-**Pasos para realizar una Pull Request excelente:**
-- Escribe un título sencillo en la sección *Update* que resuma lo máximo posible los cambios que has realizado y que contenga el código de la asignatura
-  - `[PDOO] Corrección errata T3_S4 párrafo 3`
-  - `[FP] Adición de ejemplo T6_S1 apartado 1`
-- Escribe una descripción lo más elaborada que puedas (dentro de unos límites razonables) explicando los motivos por los que estás realizando dichos cambios
-  - `La forma en la que se expresaba la relación entre ambos elementos podía dar lugar a conclusiones, por lo que he cambiado la sintaxis que cada elemento se refiera al correspondiente en su posición respectivamente.`
-  - `Ha usado un break en un bucle y merece arder en el infierno.`
+## LICENCIAS:
 
-**Pasos de proceso y aprobación de una Pull Request:**
-- La PR llega a los administradores
-  - Se analiza que los cambios estén en orden
-    - Cumplimiento con las hojas de estilo
-    - Cumplimiento con las licencias de terceros
-    - Comprobación de errores
-  - Se proponen (si se requiriese) cambios a la PR para poder ser aprobada
-    - Se inicia una conversación entre el colaborador y los administradores
-    - Otros colaboradores pueden proponer cambios u otras soluciones
-  - Se acuerda que la PR está lista para ser añadida al repositorio
-- La PR se añade al repositorio
+### LICENCIAS ORIGINALES
 
-### Preguntar sobre los archivos o el repositorio
+Este repositorio las respetará siempre y cuando estas sean de carácter libre y colaborativo y estén especificadas en la cabecera del propio fichero.
 
-GitHub trae implementada una sección en la que realizar cuestiones sobre los repositorios llamada [issues](https://github.com/DEIIT/Ingenieria-Telecomunicacion/issues). En ella, los usuarios pueden preguntar dudas o hacer proposiciones tanto sobre repositorio como su contenido.
+### APORTACIONES SIN LICENCIA EXPLÍCITA
 
-**Por ahora estamos trabajando en crear plantillas para ayudar a los estudiantes a publicar cuestiones. Cuando estén listas editaremos este párrafo con más información.**
+Gozarán de una licencia [CC con atribución, no comercial](https://github.com/DEIIT/Ingenieria-Telecomunicacion/blob/master/LICENSE.CC) para apuntes y una licencia [GNU GPLv2](https://github.com/DEIIT/Ingenieria-Telecomunicacion/blob/master/LICENSE.GPL2) para código.
 
-## Licencia
+### EXENCIÓN DE GARANTÍAS Y LIMITACIÓN DE RESPONSABILIDAD
 
-Este repositorio **respetará las licencias originales** del trabajo siempre y cuando estas sean de **caracter libre y colaborativo.** En caso de **aportaciones sin licencia explicita** dicha aportación tendrá una **licencia CC con atribución, no comercial para apuntes** y una licencia **GNU GPLv2 para código**. **En todo caso el responsable de los apuntes y/o código almacenado en este repositorio será el usuario que realiza el aporte y no la DEIIT, los administradores y/o voluntarios de la plataforma**.
+** Salvo que el Licenciante se haya comprometido mediante un acuerdo por separado, en la medida de lo posible el Licenciante ofrece el Material Licenciado tal como es y tal como está disponible y no se hace responsable ni ofrece garantías de ningún tipo respecto al Material Licenciado, ya sea de manera expresa, implícita, legal u otra. Esto incluye, de manera no taxativa, las garantías de título, comerciabilidad, idoneidad para un propósito en particular, no infracción, ausencia de vicios ocultos u otros defectos, la exactitud, la presencia o la ausencia de errores, sean o no conocidos o detectables. Cuando no se permita, totalmente o en parte, la declaración de ausencia de garantías, a Usted puede no aplicársele esta exclusión.**
+
+**En la medida de lo posible, en ningún caso el Licenciante será responsable ante Usted por ninguna teoría legal (incluyendo, de manera no taxativa, la negligencia) o de otra manera por cualquier pérdida, coste, gasto o daño directo, especial, indirecto, incidental, consecuente, punitivo, ejemplar u otro que surja de esta Licencia Pública o del uso del Material Licenciado, incluso cuando el Licenciante haya sido advertido de la posibilidad de tales pérdidas, costes, gastos o daños. Cuando no se permita la limitación de responsabilidad, ya sea totalmente o en parte, a Usted puede no aplicársele esta limitación.**
+
+**La renuncia de garantías y la limitación de responsabilidad descritas anteriormente deberán ser interpretadas, en la medida de lo posible, como lo más próximo a una exención y renuncia absoluta a todo tipo de responsabilidad.**
 
 <p align="center">
    <b>Este repositorio es fruto del esfuerzo de los estudiantes de la Universidad de Granada</b></br>
