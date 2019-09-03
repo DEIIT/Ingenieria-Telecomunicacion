@@ -1,0 +1,11 @@
+---
+title: "ASIGNATURA - CONTENIDOS"
+subtitle: "Ingeniería de Telecomunicación - Universidad de Granada"
+author: [https://github.com/DEIIT/Ingenieria-Telecomunicacion]
+date: \today
+keywords: [UGR, DEIIT, Apuntes, Ingeniería de Telecomunicación]
+titlepage: true
+titlepage-rule-color: 272d2d
+logo: ".make/deiithorizontal.png"
+lang: "es"
+...
